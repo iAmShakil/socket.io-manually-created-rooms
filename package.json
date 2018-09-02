@@ -1,6 +1,6 @@
 {
   "name": "socket.io-manually-created-rooms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a list of the socket.io rooms created manually. It omits the user id rooms automatically created by socket.io.",
   "main": "index.js",
   "scripts": {
