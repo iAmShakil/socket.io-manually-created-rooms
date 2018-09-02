@@ -4,3 +4,4 @@ const getManuallyCreatedRooms = require('socket.io-manually-created-rooms')
 
 // io provides the reference to the namespace
 var manuallyCreatedRooms = getManuallyCreatedRooms(io)
+```
